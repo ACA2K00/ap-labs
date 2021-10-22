@@ -12,6 +12,7 @@
 #define HASHSIZE 10000
 
 /*Alejandro Castro Arevalo-A01636235*/
+/*Submit test 2*/
 
 /*HashTable-Start*/
 /*Constructor of the nlist structure*/
