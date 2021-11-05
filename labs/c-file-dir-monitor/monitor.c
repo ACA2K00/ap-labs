@@ -62,6 +62,13 @@ static void displayInotifyEvent(struct inotify_event *i) {
 
 int main(int argc, char *argv[]) {
 	inotifyFd = inotify_init();
+
+	if(argc < 2){
+		warnf("Incorrect number of arguments.\n");
+        infof("Correct usage: ./monitor </directory>\n");
+        return -1;
+	}
+
 	if (inotifyFd == -1) {
 		errorf("Create inotifyFd Failed");
 		exit(1);
