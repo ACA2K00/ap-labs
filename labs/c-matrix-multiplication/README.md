@@ -119,3 +119,9 @@ How to submit your work
 GITHUB_USER=<your_github_user>  make submit
 ```
 More details at: [Classify API](../../classify.md)
+
+Build & Run Instructions
+-------------------------
+- Instead of using the "-lpthread" flag for compilation, use the "-pthread" flag.
+- Otherwise, the program won't compile due to the pthread methods being unreferenced
+- In order to run the program, execute it as indicated in the "General Instructions" section.
