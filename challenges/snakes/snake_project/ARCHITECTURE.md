@@ -19,4 +19,4 @@ The game is composed of 6 golang scripts, each managing an important part of the
 
 The following UML Chart displays the project structure and each of the scripts' components.
 
-![uml](Project_UML.JPG)
+![uml](Project_UML.JPEG)
