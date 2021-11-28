@@ -15,4 +15,7 @@ $ make run
 Which will make use of the Makefile commands to execute the prior commands at once, but the food and item amount can't be modified.
 
 # Presentation
+* Slides
 https://docs.google.com/presentation/d/1R1C09KAqKd9m_9m6JZdoiXvk1Ohfrc20/edit?usp=sharing&ouid=112491538596967257994&rtpof=true&sd=true
+* Video
+https://drive.google.com/drive/folders/1hHa0P6yeBnkYqLtjMUCoz4TkVuAQbLoY?usp=sharing
